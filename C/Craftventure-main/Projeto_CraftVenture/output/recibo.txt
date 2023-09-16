@@ -1,0 +1,9 @@
+--------------------RECIBO--------------------
+Nome Cliente: verme
+Produto: caixa 7
+Preço da unidade: R$ 5.00
+Quantidade sendo comprada: 4
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Valor a pagar R$ 20.00
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Valor Total a ser pago: 20.00
