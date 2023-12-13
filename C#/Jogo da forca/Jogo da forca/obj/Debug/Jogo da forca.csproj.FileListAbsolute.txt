@@ -1,0 +1,10 @@
+C:\Users\VitorSkull\Documents\IFSP\C#\Jogo da forca\Jogo da forca\bin\Debug\Jogo da forca.exe.config
+C:\Users\VitorSkull\Documents\IFSP\C#\Jogo da forca\Jogo da forca\bin\Debug\Jogo da forca.exe
+C:\Users\VitorSkull\Documents\IFSP\C#\Jogo da forca\Jogo da forca\bin\Debug\Jogo da forca.pdb
+C:\Users\VitorSkull\Documents\IFSP\C#\Jogo da forca\Jogo da forca\obj\Debug\Jogo da forca.csproj.AssemblyReference.cache
+C:\Users\VitorSkull\Documents\IFSP\C#\Jogo da forca\Jogo da forca\obj\Debug\Jogo_da_forca.Properties.Resources.resources
+C:\Users\VitorSkull\Documents\IFSP\C#\Jogo da forca\Jogo da forca\obj\Debug\Jogo da forca.csproj.GenerateResource.cache
+C:\Users\VitorSkull\Documents\IFSP\C#\Jogo da forca\Jogo da forca\obj\Debug\Jogo da forca.csproj.CoreCompileInputs.cache
+C:\Users\VitorSkull\Documents\IFSP\C#\Jogo da forca\Jogo da forca\obj\Debug\Jogo da forca.exe
+C:\Users\VitorSkull\Documents\IFSP\C#\Jogo da forca\Jogo da forca\obj\Debug\Jogo da forca.pdb
+C:\Users\VitorSkull\Documents\IFSP\C#\Jogo da forca\Jogo da forca\obj\Debug\Jogo_da_forca.frmJogoDaForca.resources
